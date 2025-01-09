@@ -18,3 +18,11 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 [Digital Image Processing](https://dl.ebooksworld.ir/motoman/Digital.Image.Processing.3rd.Edition.www.EBooksWorld.ir.pdf)
 Pattern Recognition and Machine Learning
 Computer Vision Proceedings
+
+## Lectures notes
+
++ Course 1 : Introduction
+
+## Lab Session
+
++ Lab 1 : introduction to opencv and a skin detection detection model
