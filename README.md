@@ -25,4 +25,5 @@ Computer Vision Proceedings
 
 ## Lab Session
 
-+ Lab 1 : introduction to opencv and a skin detection detection model
++ [Lab 1 : introduction to opencv and a skin detection detection model](./Lab1_depot_edunao.zip)
+  
