@@ -21,7 +21,7 @@ Computer Vision Proceedings
 
 ## Lectures notes
 
-+ Course 1 : Introduction
++ [Course 1 : Introduction](VIC-Lecture01.pdf)
 
 ## Lab Session
 
