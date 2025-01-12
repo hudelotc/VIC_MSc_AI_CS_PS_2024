@@ -22,8 +22,10 @@ Computer Vision Proceedings
 ## Lectures notes
 
 + [Course 1 : Introduction](VIC-Lecture01.pdf)
++ [Course 2 : Filtering](VIC-Lecture02.pdf)
 
 ## Lab Session
 
 + [Lab 1 : introduction to opencv and a skin detection detection model](./Lab1_depot_edunao.zip)
++ [Lab 2 : filtering images](./Lab2_depot_edunao.zip)
   
