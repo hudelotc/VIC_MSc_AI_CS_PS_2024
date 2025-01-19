@@ -32,5 +32,8 @@ Computer Vision Proceedings
 
 ## Assignments
 + [Assignment 1](https://filesender.renater.fr/?s=download&token=d275eb60-b2aa-45b2-901d-2a318a6f1b77) : Binomial Filter, Canny Edge Detector and Colorization of the images of the Russian Empire.
-  + Deadline : 04/02/2025   
+  + Deadline : 04/02/2025
+
+## Project
+ + [Project description](./VIC_project_Description.pdf)
   
