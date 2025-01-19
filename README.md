@@ -23,9 +23,14 @@ Computer Vision Proceedings
 
 + [Course 1 : Introduction](VIC-Lecture01.pdf)
 + [Course 2 : Filtering](VIC-Lecture02.pdf)
++ [Course 3 : Feature Detection](https://filesender.renater.fr/?s=download&token=b8abad14-0650-44d3-86d8-b7daf400d129)
 
 ## Lab Session
 
 + [Lab 1 : introduction to opencv and a skin detection detection model](./Lab1_depot_edunao.zip)
 + [Lab 2 : filtering images](./Lab2_depot_edunao.zip)
+
+## Assignments
++ [Assignment 1](https://filesender.renater.fr/?s=download&token=d275eb60-b2aa-45b2-901d-2a318a6f1b77) : Binomial Filter, Canny Edge Detector and Colorization of the images of the Russian Empire.
+  + Deadline : 04/02/2025   
   
