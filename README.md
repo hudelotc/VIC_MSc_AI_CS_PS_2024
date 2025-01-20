@@ -18,7 +18,7 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 + [Digital Image Processing](https://dl.ebooksworld.ir/motoman/Digital.Image.Processing.3rd.Edition.www.EBooksWorld.ir.pdf)
 + Pattern Recognition and Machine Learning
 + Computer Vision Proceedings
-+ Some recaps on Linear Algebra : see [Stanford Course](https://web.stanford.edu/class/cs231a/section/section1.pdf) or this [document](https://www.seas.upenn.edu/~cis5150/linalg-I.pdf) from UPenn?
++ Some recaps on Linear Algebra : see [Stanford Course](https://web.stanford.edu/class/cs231a/section/section1.pdf) or this [document](https://www.seas.upenn.edu/~cis5150/linalg-I.pdf) from UPenn.
 
 
 ## Lectures notes
