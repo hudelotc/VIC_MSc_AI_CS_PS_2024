@@ -32,7 +32,7 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 
 + [Lab 1 : introduction to opencv and a skin detection detection model](./Lab1_depot_edunao.zip)
 + [Lab 2 : filtering images](./Lab2_depot_edunao.zip)
-+ [Lab 3 : panorama building]()
++ [Lab 3 : panorama building](./Lab3_VIC.zip)
 
 ## Assignments
 + [Assignment 1](https://filesender.renater.fr/?s=download&token=d275eb60-b2aa-45b2-901d-2a318a6f1b77) : Binomial Filter, Canny Edge Detector and Colorization of the images of the Russian Empire.
