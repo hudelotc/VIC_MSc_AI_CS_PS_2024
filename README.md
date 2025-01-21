@@ -26,6 +26,7 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 + [Course 1 : Introduction](VIC-Lecture01.pdf)
 + [Course 2 : Filtering](VIC-Lecture02.pdf)
 + [Course 3 : Feature Detection](https://filesender.renater.fr/?s=download&token=b8abad14-0650-44d3-86d8-b7daf400d129)
++ [Course 4 : Image and feature Description - Feature Matching]()
 
 ## Lab Session
 
