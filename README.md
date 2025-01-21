@@ -42,4 +42,5 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
  + [Project description](./VIC_project_Description.pdf)
 
 ## Course Archive : slides of the 2023-2024 edition of the course.
+  + [Link to the archive](https://filesender.renater.fr/?s=download&token=af922ca4-96b2-435e-8dd3-0b1c6b01d099)
   
