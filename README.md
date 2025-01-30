@@ -10,6 +10,7 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 + **21/01 14h00-17:00 Image and feature description and feature matching : sd.102, Bouygues (**CANCELED** - Slot will be resheduled).**
 + 24/01 09:00-12:00 Image and feature description and feature matching : MI.106, Eiffel (https://maps.centralesupelec.fr/?id=5ac38587e5881900131fceb0&zoom=20)
 + 31/01 09:00-12:00 Image Segmentation: Salle MF.206, Eiffel
++ 03/02 09h00-12h00 Image geometry, Image reconstruction and optical flow
 + 04/02 13:30-16:30 :  Advanced Topics and Challenge:  sd.201, Bouygues (https://maps.centralesupelec.fr/?id=5b0426c16db941001382fe0c&zoom=20)
 + 17/03 14:00-17:00 - project defense
 
