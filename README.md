@@ -8,8 +8,8 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 + 13/01 14h00-17:00 Filtering  : sd.103, Bouygues (https://maps.centralesupelec.fr/?id=5b03f60702610f0013b8c54a&zoom=20)
 + 20/01 14h00-17:00 Feature detection : sd.102, Bouygues (https://maps.centralesupelec.fr/?id=5b03f59732f6f8001d620a3d&zoom=20)
 + **21/01 14h00-17:00 Image and feature description and feature matching : sd.102, Bouygues (**CANCELED** - Slot will be resheduled).**
-+ 24/01 09:00-12:00 Image Segmentation : MI.106, Eiffel (https://maps.centralesupelec.fr/?id=5ac38587e5881900131fceb0&zoom=20)
-+ 31/01 09:00-12:00 Image Recognition : Salle MF.206, Eiffel
++ 24/01 09:00-12:00 Image and feature description and feature matching : MI.106, Eiffel (https://maps.centralesupelec.fr/?id=5ac38587e5881900131fceb0&zoom=20)
++ 31/01 09:00-12:00 Image Segmentation: Salle MF.206, Eiffel
 + 04/02 13:30-16:30 :  Advanced Topics and Challenge:  sd.201, Bouygues (https://maps.centralesupelec.fr/?id=5b0426c16db941001382fe0c&zoom=20)
 + 17/03 14:00-17:00 - project defense
 
@@ -27,7 +27,7 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 + [Course 2 : Filtering](VIC-Lecture02.pdf)
 + [Course 3 : Feature Detection](https://filesender.renater.fr/?s=download&token=b8abad14-0650-44d3-86d8-b7daf400d129)
 + [Course 4 : Image and feature Description - Feature Matching](https://filesender.renater.fr/?s=download&token=66299535-1886-4313-8e13-c6cc2bef8246)
-+ [Course 5 : Segmentation]()
++ [Course 5 : Segmentation](VIC_Segmentation2024_2025.pdf)
 
 ## Lab Session
 
