@@ -29,6 +29,7 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 + [Course 3 : Feature Detection](https://filesender.renater.fr/?s=download&token=b8abad14-0650-44d3-86d8-b7daf400d129)
 + [Course 4 : Image and feature Description - Feature Matching](https://filesender.renater.fr/?s=download&token=66299535-1886-4313-8e13-c6cc2bef8246)
 + [Course 5 : Segmentation](VIC_Segmentation2024_2025.pdf)
++ [Course 6 : Geometry](https://filesender.renater.fr/?s=download&token=58f16737-d496-421f-be0b-d8a5d8753fee)
 
 ## Lab Session
 
