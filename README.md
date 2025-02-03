@@ -11,7 +11,7 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 + 24/01 09:00-12:00 Image and feature description and feature matching : MI.106, Eiffel (https://maps.centralesupelec.fr/?id=5ac38587e5881900131fceb0&zoom=20)
 + 31/01 09:00-12:00 Image Segmentation: Salle MF.206, Eiffel
 + 03/02 09h00-12h00 Image geometry, Image reconstruction and optical flow
-+ 04/02 13:30-16:30 :  Advanced Topics and Challenge:  sd.201, Bouygues (https://maps.centralesupelec.fr/?id=5b0426c16db941001382fe0c&zoom=20)
++ 04/02 13:30-16:30 :  Motion:  sd.201, Bouygues (https://maps.centralesupelec.fr/?id=5b0426c16db941001382fe0c&zoom=20)
 + 17/03 14:00-17:00 - project defense
 
 ## Resources
@@ -30,7 +30,7 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 + [Course 4 : Image and feature Description - Feature Matching](https://filesender.renater.fr/?s=download&token=66299535-1886-4313-8e13-c6cc2bef8246)
 + [Course 5 : Segmentation](VIC_Segmentation2024_2025.pdf)
 + [Course 6 : Geometry](https://filesender.renater.fr/?s=download&token=58f16737-d496-421f-be0b-d8a5d8753fee)
-+ [Course 7 : Motion]()
++ [Course 7 : Motion](VIC_Motion_2024_2025.pdf)
 
 ## Lab Session
 
