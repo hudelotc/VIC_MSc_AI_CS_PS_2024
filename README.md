@@ -38,6 +38,7 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 + [Lab 2 : filtering images](./Lab2_depot_edunao.zip)
 + [Lab 3 : panorama building](./Lab3_VIC.zip)
 + [Lab 5 : image segmentation](./Lab5_VIC.zip)
++ [Lab 6 : motion]()
 
 ## Assignments
 + [Assignment 1](https://filesender.renater.fr/?s=download&token=d275eb60-b2aa-45b2-901d-2a318a6f1b77) : Binomial Filter, Canny Edge Detector and Colorization of the images of the Russian Empire.
