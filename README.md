@@ -40,7 +40,7 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 + [Lab 5 : image segmentation](./Lab5_Segmentation.zip)
 + [Lab 6 : motion](Lab_Lecture_06_Motion.zip)
 
-## Assignments
+## Assignments (30 % of the grade - Only 1 assignment)
 + [Assignment 1](https://filesender.renater.fr/?s=download&token=d275eb60-b2aa-45b2-901d-2a318a6f1b77) : Binomial Filter, Canny Edge Detector and Colorization of the images of the Russian Empire.
   + Deadline : 04/02/2025
 
