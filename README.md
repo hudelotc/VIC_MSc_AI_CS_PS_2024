@@ -37,7 +37,7 @@ Computer vision is an interdisciplinary field with the goal of enabling automati
 + [Lab 1 : introduction to opencv and a skin detection detection model](./Lab1_depot_edunao.zip)
 + [Lab 2 : filtering images](./Lab2_depot_edunao.zip)
 + [Lab 3 : panorama building](./Lab3_VIC.zip)
-+ [Lab 5 : image segmentation](./Lab5_VIC.zip)
++ [Lab 5 : image segmentation](./Lab5_Segmentation.zip)
 + [Lab 6 : motion](Lab_Lecture_06_Motion.zip)
 
 ## Assignments
